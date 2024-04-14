@@ -29,7 +29,7 @@ useEffect(()=>{
     );
   }
 
-
+//Changes to make a pull to train
 
   // https://www.youtube.com/watch?v=Bx7taFW0XbY
 
