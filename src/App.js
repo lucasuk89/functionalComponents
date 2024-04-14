@@ -29,7 +29,7 @@ useEffect(()=>{
     );
   }
 
-//Changes to make a pull to train
+//Esse comentario foi feito dentro do Github, favor puxar para o VSCODE.
 
   // https://www.youtube.com/watch?v=Bx7taFW0XbY
 
